@@ -1,0 +1,19 @@
+EN --- > 
+1.Abstraction in python is defined as a process of handling complexity by hiding unnecessary information from the user. This is one of the core concepts of object-oriented programming (OOP) languages.
+-------------------------------------------
+2.Inheritance allows us to define a class that inherits all the methods and properties from another class.Parent class is the class being inherited from, also called base class.Child class is the class that inherits from another class, also called derived class.
+-------------------------------------------
+3.Polymorphism in python defines methods in the child class that have the same name as the methods in the parent class. In inheritance, the child class inherits the methods from the parent class. Also, it is possible to modify a method in a child class that it has inherited from the parent class.
+-------------------------------------------
+4.Encapsulation is one of the fundamental concepts in object-oriented programming (OOP). It describes the idea of wrapping data and the methods that work on data within one unit. This puts restrictions on accessing variables and methods directly and can prevent the accidental modification of data. To prevent accidental change, an object’s variable can only be changed by an object’s method. Those types of variables are known as private variables.A class is an example of encapsulation as it encapsulates all the data that is member functions, variables, etc.
+------------------------------------------- >
+------------------------------------------- >
+------------------------------------------- >
+RU --- >
+1.Абстракция в Python определяется как процесс обработки сложности путем сокрытия ненужной информации от пользователя. Это одна из основных концепций языков объектно-ориентированного программирования (ООП).
+-------------------------------------------
+2.Наследование позволяет нам определить класс, который наследует все методы и свойства другого класса.Родительский класс — это наследуемый класс, также называемый базовым классом.Дочерний класс — это класс, который наследуется от другого класса, также называемого производным классом.
+-------------------------------------------
+3.Полиморфизм в python определяет методы в дочернем классе, которые имеют то же имя, что и методы в родительском классе. При наследовании дочерний класс наследует методы родительского класса. Кроме того, в дочернем классе можно изменить метод, унаследованный от родительского класса.
+-------------------------------------------
+4.Инкапсуляция — одна из фундаментальных концепций объектно-ориентированного программирования (ООП). Он описывает идею упаковки данных и методы, которые работают с данными в одном блоке. Это накладывает ограничения на прямой доступ к переменным и методам и может предотвратить случайное изменение данных. Чтобы предотвратить случайное изменение, переменная объекта может быть изменена только методом объекта. Эти типы переменных известны как частные переменные.Класс является примером инкапсуляции, поскольку он инкапсулирует все данные, которые являются функциями-членами, переменными и т. д.
